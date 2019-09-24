@@ -1,0 +1,61 @@
+* Time Travel Ideas for a RPG
+
+  I'd like to play a game where time travelling is extremely easy and we can do it at will. There is an excellent book on that called "CºNTINUUM", but the game mechanics are not that appealling, so I'd like to try something different.
+
+  That being said, the ideas that are great and the authors spend a great deal of effort imagining how a time travelling society would be. Therefore, I can stand on the their shoulders instead of trying to reinvent the wheel (scientific process, I hear?).
+
+* Outline
+
+** What I like and don't like about the book
+
+   This is just a list to keep me focused.
+
+   - Like:
+     - Time travel at will. No fluffy, no complications like momentum, transport things, etc.
+     - The universe /is/. Time is like another place. A 4th dimension you can move through.
+     - There is just one timeline. No alternative universes.
+       - PROBLEM: how to solve paradoxes? Frag points are boring as mechanism.
+       - COOL: Free will is debatable. You are as free as you are ignorant of your future.
+     - The maxims! They are a convenient way to keep what is important in front of you.
+     - Book keeping. It's a neat way to know where you were to affect your past, our avoid it.
+     - Mentors. Some help near you until you grasp the nuances.
+     - Don't bother with money, we get you covered.
+   - Don't like:
+     - Some boring mechanics:
+       - Book keeping. Each "jump" is an entry, and it's detailed.
+       - Frag.
+     - Some boring scenario:
+       - Fraternities? Corner? The society looks like a university campus.
+       - Cause frag, fix frag, cause frag, fix frag.
+
+** The premises
+   - It should be FUN.
+     - You should have challenges.
+     - You should have the means to deal with them.
+     - Time travel mess with your mundane conceptions, easy things are difficult, difficult things are easy.
+   - You can travel at will, *no* time or space limit.
+   - You have the most advanced technology available:
+     - Nanites. Think no issues with things that are near you.
+     - Access to Information. Think internet on steroids.
+   - Some things are too easy:
+     - Money: you can get it just winning any game. (Maybe that's a fun activity?)
+     - Clothes and language: Nanite and and internal computer in your brain
+     - Information: An internet with steroids is in your brain. However, you don't have facts about unimportant people or events.
+     - You know what's about to happen the same way you know what just happen.
+     - Small paradoxes are commonplace. Key events are more rare.
+     - It's near impossible to get you by surprise. Unless someone mess with your event.
+       - But it's possible to surprise you "in retrospect". You lived another version of that event, then someone messed with your past.
+   - Some things are difficult:
+     - Information: Important but little know facts are not available.
+     - You can't draw too much attemption. But it's fine to draw some, after all, who believes on that guy who tells everyone about that time traveller he met? Unless he has *proofs*.
+     - You can't change memories.
+     - You can't change feelings. So, prevent people doing things is easy, /motivate/ people to do things are way more complex.
+     - You can't force another spanner do what they don't want. Once one is awake, it can just vanishes.
+     - The most terrible thing possible is to lose conscience. You can't span if not conscious.
+   - Memory is the key to solve paradoxes:
+     - Memory works in both way, past and future. It seems like clairvoyance for a leveller.
+     - We remember things differently from how they happen, that's because they were altered. You really experienced it, but someone changed it.
+     - We are made of few base memories, those are important and must be preserved. We should avoid creating and removing base memories. Problem is, you're not really sure what's a base memory for everyone you interact with.
+     - You can change facts, but you can't change memory.
+   - A combat is a stack of actions that prevent or invalidate the actions of the opponents. It's close to what happens in the last Sherlock Holmes movie, where the main character "deduces" the combat before it happens and take the right actions.
+     - You can't get someone on surprise, unless you watch it first to make sure he has a different memory of what's going to happen.
